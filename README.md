@@ -37,6 +37,12 @@
   <a href="#安装">安装</a> ·
   <a href="#解决了什么痛点">解决什么痛点</a> ·
   <a href="#算法执行流程">算法原理</a>
+
+**其他语言 / Other Languages:**
+<p align="center">
+  
+[English](README_EN.md)
+
 </p>
 
 

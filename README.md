@@ -1,13 +1,13 @@
-# System Fitness Advisor.skill
+# 系统化健身顾问.skill
 
-> 「不只是生成训练计划，而是把系统健身逻辑变成可复用的 AI Skill」
+> 「你的下一个健身教练何必是健身教练」
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Agent Skill](https://img.shields.io/badge/Agent-Skill-purple.svg)
 ![Fitness Knowledge Base](https://img.shields.io/badge/Fitness-Knowledge_Base-green.svg)
 ![Status](https://img.shields.io/badge/Status-Building-orange.svg)
 
-System Fitness Advisor 是一个系统化健身 AI Skill。
+系统化健身顾问 是一个系统化健身 AI Skill。
 
 它根据用户的身体数据、训练目标、训练经验、器械条件、时间安排、伤病限制和恢复状态，结合内置训练知识库与动作库，生成安全、可执行、可进阶的健身建议。
 

@@ -1,4 +1,3 @@
-# 系统健身-skill
 # System Fitness Advisor.skill
 
 > 「不只是生成训练计划，而是把系统健身逻辑变成可复用的 AI Skill」
